@@ -1,13 +1,17 @@
 <html>
 <head> <title>ICT E-Portfolio</title> </head>
 
-<body>
+<body style="background-image:url('gloom.jpg'); background-attachment:fixed; background-repeat:no-repeat; background-size:100% 100%;">
 
-
-
-
-
-
+<p align="center">
+<table style="width:90%;" border="1" cellspacing="0">
+<tr bgcolor="#ffffff">
+<td> a </td>
+<td> a </td>
+<td> a </td>
+</tr>
+</table>
+</p>
 
 
 </body>
