@@ -9,7 +9,7 @@
 
 <td rowspan="2"> <p align="center"> <a> <img src="home.png" alt="Home" width="40%"> </a> </p> </td>
 <td rowspan="2"> <p align="center"> <a href="about.html"> <img src="about.png" alt="About Me" width="40%"> </a> </p> </td>
-<td rowspan="2"> <p align="center"> <a> <img src="activities.png" alt="Activities" width="40%"> </a> </p> </td>
+<td rowspan="2"> <p align="center"> <a href="activities.html"> <img src="activities.png" alt="Activities" width="40%"> </a> </p> </td>
 <td rowspan="2"> <p align="center"> <a> <img src="reflection.png" alt="Reflection" width="40%"> </a> </p> </td>
 
 </tr>
