@@ -1,0 +1,27 @@
+<html>
+<head> <title>ICT E-Portfolio</title> </head>
+
+<body style="background-image:url('gloom.jpg'); background-attachment:fixed; background-repeat:no-repeat; background-size:100% 100%;">
+
+<p align="center">
+<table style="width:90%;" border="1" cellspacing="0">
+<tr bgcolor="#ffffff">
+
+<td rowspan="2"> <p align="center"> <a href="eep.html"> <img src="home.png" alt="Home" width="40%"> </a> </p> </td>
+<td rowspan="2"> <p align="center"> <a href="about.html"> <img src="about.png" alt="About Me" width="40%"> </a> </p> </td>
+<td rowspan="2"> <p align="center"> <a href="activities.html"> <img src="activities.png" alt="Activities" width="40%"> </a> </p> </td>
+<td rowspan="2"> <p align="center"> <a> <img src="reflection.png" alt="Reflection" width="40%"> </a> </p> </td>
+
+</tr>
+</table>
+</p>
+
+<br> <br> 
+<h1 align="center" style="font-family:Courier;">Reflection</h1>
+<br> <br>
+
+<p align="center">I think ICT is a fun subject. It tests our thinking skills by challenging us to replicate or to create using our little knowledge, to create something meaningful. I really appreciate the teacher aswell, I notice her struggles and how she works hard for everyone, not just her students. She shows a good passion in ICT and really motivates a lot of students, like myself, to continue learning with enthusiasm. I think ICT will really be important to me in my future, as I want to be a computer engineer when I grow up. ICT is the stepping stone to my possible future career and life. Thank you, Miss Uminga.
+</p>
+
+</body>
+</html>
