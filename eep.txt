@@ -6,11 +6,24 @@
 <p align="center">
 <table style="width:90%;" border="1" cellspacing="0">
 <tr bgcolor="#ffffff">
-<td> a </td>
-<td> a </td>
-<td> a </td>
+
+<td rowspan="2"> <p align="center"> <a> <img src="home.png" alt="Home" width="40%"> </a> </p> </td>
+<td rowspan="2"> <p align="center"> <a href="about.html"> <img src="about.png" alt="About Me" width="40%"> </a> </p> </td>
+<td rowspan="2"> <p align="center"> <a> <img src="activities.png" alt="Activities" width="40%"> </a> </p> </td>
+<td rowspan="2"> <p align="center"> <a> <img src="reflection.png" alt="Reflection" width="40%"> </a> </p> </td>
+
 </tr>
 </table>
+</p>
+
+<br>
+<h1 align="center" style="font-family:Courier;">First Quarter Portfolio </h1>
+<br><br><br><br><br><br>
+
+<p align="center" style="font-family:Lucida;"> 
+Welcome to my website!<br>
+Made by - Zyawn Jerole M Gabayeron | 9 - Faith <br>
+Ms. Mary Grace Uminga | Teacher
 </p>
 
 
