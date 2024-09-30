@@ -23,5 +23,23 @@
 <p align="center">I think ICT is a fun subject. It tests our thinking skills by challenging us to replicate or to create using our little knowledge, to create something meaningful. I really appreciate the teacher aswell, I notice her struggles and how she works hard for everyone, not just her students. She shows a good passion in ICT and really motivates a lot of students, like myself, to continue learning with enthusiasm. I think ICT will really be important to me in my future, as I want to be a computer engineer when I grow up. ICT is the stepping stone to my possible future career and life. Thank you, Miss Uminga.
 </p>
 
+<p align="center">
+<form> <ul type="circle">
+<li> Full Name <input type="text"> <br> </li>
+<li> What can you say about this portfolio? <br> <br>
+<textarea name="feedback" rows="5" cols="25"> </textarea> <br> <br> </li>
+<li> What color do you think of me as? <br>
+<input name ="pictype" type="radio" value="cross"> Pink
+<input name ="pictype" type="radio" value="cross"> Red
+<input name ="pictype" type="radio" value="cross"> Purple </li> <br> <br>
+<li> What is your relationship with me? <select name="contractchoice" size="1">
+<option> Family </option>
+<option> Friends </option>
+<option> Besties </option>
+<option> Acquaintance </option> </select></li>
+<br><br>
+<li><input type="submit" value="Submit">
+<input type="reset" value="Clear"> </li> </ul> </form> </p>
+
 </body>
 </html>
